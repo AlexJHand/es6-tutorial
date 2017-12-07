@@ -16,7 +16,7 @@ Link to software that is required to install the app (e.g. node).
 
 ## Screen Shot
 
-![Image of Mortgage Calculator]
+![Image of Mortgage Calculator](https://github.com/AlexJHand/es6-tutorial/blob/classes/images/es6ScreenShot.png)
 
 ## Author
 
